@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mdnice/static/css/main.34de6062.chunk.css",
+    "main.js": "/mdnice/static/js/main.074efff2.chunk.js",
+    "main.js.map": "/mdnice/static/js/main.074efff2.chunk.js.map",
+    "runtime-main.js": "/mdnice/static/js/runtime-main.a4bac575.js",
+    "runtime-main.js.map": "/mdnice/static/js/runtime-main.a4bac575.js.map",
+    "static/css/2.92824036.chunk.css": "/mdnice/static/css/2.92824036.chunk.css",
+    "static/js/2.fdfcc9f4.chunk.js": "/mdnice/static/js/2.fdfcc9f4.chunk.js",
+    "static/js/2.fdfcc9f4.chunk.js.map": "/mdnice/static/js/2.fdfcc9f4.chunk.js.map",
+    "index.html": "/mdnice/index.html",
+    "precache-manifest.7cff4690a3c85735344e741f25133b2b.js": "/mdnice/precache-manifest.7cff4690a3c85735344e741f25133b2b.js",
+    "service-worker.js": "/mdnice/service-worker.js",
+    "static/css/2.92824036.chunk.css.map": "/mdnice/static/css/2.92824036.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/mdnice/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4bac575.js",
+    "static/css/2.92824036.chunk.css",
+    "static/js/2.fdfcc9f4.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.074efff2.chunk.js"
+  ]
+}
